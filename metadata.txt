@@ -1,0 +1,33 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<?xml-stylesheet type='text/xsl" href=""?>
+<plugins>
+<pyqgis_plugin name = "mediaterre Plugin"
+		version="0.1.0"
+		plugin_id="227"
+<description>
+<![CDATA[Demonstration of a QGIS Plugin]]<
+</description>
+<about></about>
+<version>0.1.0</version>
+<qgis_minimum_version>1.8.0</qgis_minimum_version>
+<qgis_maximum_version>2.9.9</qgis_maximum_version>
+<homepage>
+<![CDATA[https://]]>
+</homepage>
+<file_name>mediaterreConseil.0.1.0.zip</file_name>
+<icon>http://</icon>
+<author_name><![CDATA[Vincent Louvel]]</author_name>
+<download_url> http://</download_url>
+<uploaded_by><![CDATA[lou]]</uploaded_by>
+<create_date>2016-04-12T16:35:19.824333</create_date>
+<update_date>2016-05-25T09:22:19.824333</update_date>
+<experimental>True</experimental>
+<deprecated>False</deprecated>
+<tracker><![CDATA[http://]]></tracker>
+<repository><![CDATA[https://]]></repository>
+<tags><![CDATA[development, znieff, environnement, natura2000, mediaterre]]></tags>
+<downloads>0</downloads>
+<average_vote>0</average_vote>
+<rating_votes>0</rating_votes>
+</pyqgis_plugin>
+</plugins>
